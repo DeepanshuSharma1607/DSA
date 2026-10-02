@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/DeepanshuSharma1607/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DeepanshuSharma1607/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepanshuSharma1607/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/DeepanshuSharma1607/DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/DeepanshuSharma1607/DSA/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DeepanshuSharma1607/DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/DeepanshuSharma1607/DSA/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,8 +30,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/DeepanshuSharma1607/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/DeepanshuSharma1607/DSA/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/DeepanshuSharma1607/DSA/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepanshuSharma1607/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/DeepanshuSharma1607/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/DeepanshuSharma1607/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/DeepanshuSharma1607/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
