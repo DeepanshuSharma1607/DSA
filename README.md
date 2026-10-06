@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DeepanshuSharma1607/DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/DeepanshuSharma1607/DSA/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/DeepanshuSharma1607/DSA/tree/master/0414-third-maximum-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/DeepanshuSharma1607/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/DeepanshuSharma1607/DSA/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DeepanshuSharma1607/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/DeepanshuSharma1607/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/DeepanshuSharma1607/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/DeepanshuSharma1607/DSA/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/DeepanshuSharma1607/DSA/tree/master/0925-long-pressed-name) |
+| [0977-squares-of-a-sorted-array](https://github.com/DeepanshuSharma1607/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DeepanshuSharma1607/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/DeepanshuSharma1607/DSA/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/DeepanshuSharma1607/DSA/tree/master/0414-third-maximum-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/DeepanshuSharma1607/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/DeepanshuSharma1607/DSA/tree/master/1051-height-checker) |
 ## Dynamic Programming
 |  |
