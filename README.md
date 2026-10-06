@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/DeepanshuSharma1607/DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DeepanshuSharma1607/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/DeepanshuSharma1607/DSA/tree/master/0485-max-consecutive-ones) |
+| [0905-sort-array-by-parity](https://github.com/DeepanshuSharma1607/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/DeepanshuSharma1607/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/DeepanshuSharma1607/DSA/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/DeepanshuSharma1607/DSA/tree/master/1122-relative-sort-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/DeepanshuSharma1607/DSA/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/DeepanshuSharma1607/DSA/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/DeepanshuSharma1607/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0905-sort-array-by-parity](https://github.com/DeepanshuSharma1607/DSA/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/DeepanshuSharma1607/DSA/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/DeepanshuSharma1607/DSA/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/DeepanshuSharma1607/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DeepanshuSharma1607/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/DeepanshuSharma1607/DSA/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/DeepanshuSharma1607/DSA/tree/master/0414-third-maximum-number) |
+| [0905-sort-array-by-parity](https://github.com/DeepanshuSharma1607/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/DeepanshuSharma1607/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/DeepanshuSharma1607/DSA/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/DeepanshuSharma1607/DSA/tree/master/1122-relative-sort-array) |
