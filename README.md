@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DeepanshuSharma1607/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/DeepanshuSharma1607/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/DeepanshuSharma1607/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/DeepanshuSharma1607/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DeepanshuSharma1607/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -61,10 +62,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/DeepanshuSharma1607/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/DeepanshuSharma1607/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/DeepanshuSharma1607/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/DeepanshuSharma1607/DSA/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/DeepanshuSharma1607/DSA/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/DeepanshuSharma1607/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/DeepanshuSharma1607/DSA/tree/master/0917-reverse-only-letters) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/DeepanshuSharma1607/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
