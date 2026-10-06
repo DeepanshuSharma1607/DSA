@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/DeepanshuSharma1607/DSA/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/DeepanshuSharma1607/DSA/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/DeepanshuSharma1607/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0824-goat-latin](https://github.com/DeepanshuSharma1607/DSA/tree/master/0824-goat-latin) |
 | [0917-reverse-only-letters](https://github.com/DeepanshuSharma1607/DSA/tree/master/0917-reverse-only-letters) |
 ## Trie
 |  |
