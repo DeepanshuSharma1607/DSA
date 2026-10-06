@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DeepanshuSharma1607/DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/DeepanshuSharma1607/DSA/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/DeepanshuSharma1607/DSA/tree/master/0414-third-maximum-number) |
+| [1051-height-checker](https://github.com/DeepanshuSharma1607/DSA/tree/master/1051-height-checker) |
 | [1572-matrix-diagonal-sum](https://github.com/DeepanshuSharma1607/DSA/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DeepanshuSharma1607/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/DeepanshuSharma1607/DSA/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/DeepanshuSharma1607/DSA/tree/master/0414-third-maximum-number) |
+| [1051-height-checker](https://github.com/DeepanshuSharma1607/DSA/tree/master/1051-height-checker) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DeepanshuSharma1607/DSA/tree/master/0014-longest-common-prefix) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/DeepanshuSharma1607/DSA/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/DeepanshuSharma1607/DSA/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
