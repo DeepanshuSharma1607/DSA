@@ -1,9 +1,10 @@
 class Solution {
 public:
     vector<int> luckyNumbers(vector<vector<int>>& matrix) {
-        unordered_map<int, int> mpp;
+        // unordered_map<int, int> mpp;
         int n = matrix.size();
         int m = matrix[0].size();
+        vector<int>res;
         for (int i = 0; i < n; i++) {
             int min_ele = INT_MAX;
             int pos = -1;
@@ -13,20 +14,12 @@ public:
                     pos = j;
                 }
             }
-            if (min_ele != INT_MAX || pos != -1) {
-                mpp[min_ele] = pos;
+            int max_ele=INT_MIN;
+            for (int k = 0; k < n; k++) {
+                max_ele = max(max_ele, matrix[k][pos]);
             }
-        }
-        vector<int> res;
-        for (auto it : mpp) {
-            int val = it.first;
-            int pos = it.second;
-            int max_ele = INT_MIN;
-            for (int i = 0; i < n; i++) {
-                max_ele = max(max_ele, matrix[i][pos]);
-            }
-            if (max_ele == val) {
-                res.push_back(val);
+            if (max_ele == min_ele) {
+                res.push_back(min_ele);
             }
         }
         return res;
