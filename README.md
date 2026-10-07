@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/DeepanshuSharma1607/DSA/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/DeepanshuSharma1607/DSA/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/DeepanshuSharma1607/DSA/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/DeepanshuSharma1607/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/DeepanshuSharma1607/DSA/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/DeepanshuSharma1607/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/DeepanshuSharma1607/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/DeepanshuSharma1607/DSA/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/DeepanshuSharma1607/DSA/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/DeepanshuSharma1607/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0832-flipping-an-image](https://github.com/DeepanshuSharma1607/DSA/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/DeepanshuSharma1607/DSA/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/DeepanshuSharma1607/DSA/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/DeepanshuSharma1607/DSA/tree/master/0925-long-pressed-name) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/DeepanshuSharma1607/DSA/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/DeepanshuSharma1607/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/DeepanshuSharma1607/DSA/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/DeepanshuSharma1607/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/DeepanshuSharma1607/DSA/tree/master/1572-matrix-diagonal-sum) |
@@ -137,5 +140,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/DeepanshuSharma1607/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/DeepanshuSharma1607/DSA/tree/master/0867-transpose-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/DeepanshuSharma1607/DSA/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
