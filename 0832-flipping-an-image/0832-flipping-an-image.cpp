@@ -3,10 +3,14 @@ public:
     vector<vector<int>> flipAndInvertImage(vector<vector<int>>& image) {
         int n = image.size();
         for(int i=0; i<n; i++){
-            reverse(image[i].begin(),image[i].end());
-            for(int j=0; j<n; j++){
-                if(image[i][j]==0) image[i][j]=1;
-                else image[i][j]=0;
+            int s=0;
+            int e=n-1;
+            while(s<=e){
+                int temp = image[i][s]^1;
+                image[i][s]=image[i][e]^1;
+                image[i][e]=temp;
+                s++;
+                e--;
             }
         }
         return image;
