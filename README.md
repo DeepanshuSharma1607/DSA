@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/DeepanshuSharma1607/DSA/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/DeepanshuSharma1607/DSA/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/DeepanshuSharma1607/DSA/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/DeepanshuSharma1607/DSA/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/DeepanshuSharma1607/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/DeepanshuSharma1607/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/DeepanshuSharma1607/DSA/tree/master/1051-height-checker) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/DeepanshuSharma1607/DSA/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/DeepanshuSharma1607/DSA/tree/master/1572-matrix-diagonal-sum) |
 ## String
 |  |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/DeepanshuSharma1607/DSA/tree/master/0724-find-pivot-index) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/DeepanshuSharma1607/DSA/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
