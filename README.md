@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DeepanshuSharma1607/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepanshuSharma1607/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/DeepanshuSharma1607/DSA/tree/master/0169-majority-element) |
+| [0239-sliding-window-maximum](https://github.com/DeepanshuSharma1607/DSA/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/DeepanshuSharma1607/DSA/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/DeepanshuSharma1607/DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DeepanshuSharma1607/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -146,4 +147,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/DeepanshuSharma1607/DSA/tree/master/0832-flipping-an-image) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/DeepanshuSharma1607/DSA/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/DeepanshuSharma1607/DSA/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/DeepanshuSharma1607/DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/DeepanshuSharma1607/DSA/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/DeepanshuSharma1607/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
