@@ -7,7 +7,9 @@ void solve() {
     for(int i=0; i<n; i++) scanf("%d",&arr[i]);
  
     unordered_map<int,int>mpp;
-    vector<pair<int,int>>res;
+    int a = 0;
+    int b = 0;
+    int max_diff=0;
     int i=0;
     int j=0;
     while(j<n){
@@ -26,22 +28,15 @@ void solve() {
                 }
             }
         }
-        res.push_back({i,j});
-        j++;
-    }
-    int a = 0;
-    int b = 0;
-    int max_diff=0;
-    for(auto it : res){
-        int one = it.first;
-        int two = it.second;
-        int diff = it.second-it.first;
+        int diff = j-i;
         if(diff>max_diff){
             max_diff = max(max_diff,diff);
-            a=it.first;
-            b=it.second;
+            a=i;
+            b=j;
         }
+        j++;
     }
+    
     printf("%d %d",a+1,b+1);
     
 }
