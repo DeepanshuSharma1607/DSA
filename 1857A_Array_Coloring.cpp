@@ -13,12 +13,7 @@ void solve() {
         if(arr[i]%2==0) even++;
         else odd++;
     }
-    if(odd==0) cout<<"YES";
-    else if(even = 0){
-        if(odd%2==1) cout<<"YES";
-        else cout<<"NO";
-    }
-    else if(odd%2==0) cout<<"YES";
+    if(odd%2==0) cout<<"YES";
     else cout<<"NO";
 }
  
