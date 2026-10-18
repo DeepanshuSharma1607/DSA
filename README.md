@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/DeepanshuSharma1607/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DeepanshuSharma1607/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepanshuSharma1607/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0162-find-peak-element](https://github.com/DeepanshuSharma1607/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/DeepanshuSharma1607/DSA/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/DeepanshuSharma1607/DSA/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/DeepanshuSharma1607/DSA/tree/master/0283-move-zeroes) |
@@ -167,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/DeepanshuSharma1607/DSA/tree/master/0239-sliding-window-maximum) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/DeepanshuSharma1607/DSA/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
