@@ -15,7 +15,7 @@ public:
             if (mid > 0 && mid < n - 1 && arr[mid] != arr[mid + 1] &&
                 arr[mid] != arr[mid - 1])
                 return arr[mid];
-            if (mid % 2 == 0) {
+            if ((mid+1) % 2 == 1) {
                 if (arr[mid] != arr[mid + 1])
                     end = mid - 1;
                 else
