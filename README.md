@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/DeepanshuSharma1607/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/DeepanshuSharma1607/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/DeepanshuSharma1607/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1901-find-a-peak-element-ii](https://github.com/DeepanshuSharma1607/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/DeepanshuSharma1607/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/DeepanshuSharma1607/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/DeepanshuSharma1607/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1901-find-a-peak-element-ii](https://github.com/DeepanshuSharma1607/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## String
 |  |
 | ------- |
@@ -182,4 +184,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/DeepanshuSharma1607/DSA/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DeepanshuSharma1607/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DeepanshuSharma1607/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [1901-find-a-peak-element-ii](https://github.com/DeepanshuSharma1607/DSA/tree/master/1901-find-a-peak-element-ii) |
 <!---LeetCode Topics End-->
