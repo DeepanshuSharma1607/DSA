@@ -6,7 +6,7 @@ public:
             return maxnum;
         int sec_max = INT_MIN;
         for (int x : nums) {
-            if (x != maxnum) {
+            if (x < maxnum) {
                 sec_max = max(sec_max, x);
             }
         }
@@ -14,12 +14,15 @@ public:
         bool is_min = false;
         for (int x : nums) {
             if (x < sec_max) {
-                if(x==INT_MIN) is_min = true;
+                if (x == INT_MIN)
+                    is_min = true;
                 ans = max(ans, x);
             }
         }
-        if(ans==INT_MIN && !is_min) return maxnum;
-        if(is_min) return INT_MIN;
+        if (ans == INT_MIN && !is_min)
+            return maxnum;
+        if (is_min)
+            return INT_MIN;
         return ans;
     }
 };
