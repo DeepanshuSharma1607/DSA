@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/DeepanshuSharma1607/DSA/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/DeepanshuSharma1607/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/DeepanshuSharma1607/DSA/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/DeepanshuSharma1607/DSA/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/DeepanshuSharma1607/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/DeepanshuSharma1607/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/DeepanshuSharma1607/DSA/tree/master/1051-height-checker) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/DeepanshuSharma1607/DSA/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DeepanshuSharma1607/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DeepanshuSharma1607/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/DeepanshuSharma1607/DSA/tree/master/0875-koko-eating-bananas) |
 | [1901-find-a-peak-element-ii](https://github.com/DeepanshuSharma1607/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## String Matching
 |  |
