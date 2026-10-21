@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DeepanshuSharma1607/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/DeepanshuSharma1607/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/DeepanshuSharma1607/DSA/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/DeepanshuSharma1607/DSA/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/DeepanshuSharma1607/DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DeepanshuSharma1607/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/DeepanshuSharma1607/DSA/tree/master/0283-move-zeroes) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/DeepanshuSharma1607/DSA/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DeepanshuSharma1607/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0766-toeplitz-matrix](https://github.com/DeepanshuSharma1607/DSA/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/DeepanshuSharma1607/DSA/tree/master/0832-flipping-an-image) |
@@ -205,4 +207,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeepanshuSharma1607/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/DeepanshuSharma1607/DSA/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/DeepanshuSharma1607/DSA/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/DeepanshuSharma1607/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
