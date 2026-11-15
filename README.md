@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/DeepanshuSharma1607/DSA/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepanshuSharma1607/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/DeepanshuSharma1607/DSA/tree/master/0410-split-array-largest-sum) |
 ## Divide and Conquer
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DeepanshuSharma1607/DSA/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/DeepanshuSharma1607/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeepanshuSharma1607/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/DeepanshuSharma1607/DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/DeepanshuSharma1607/DSA/tree/master/0205-isomorphic-strings) |
@@ -232,4 +234,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/DeepanshuSharma1607/DSA/tree/master/0061-rotate-list) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/DeepanshuSharma1607/DSA/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/DeepanshuSharma1607/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
